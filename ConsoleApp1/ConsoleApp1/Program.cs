@@ -7,7 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Basta!");
-            Console.WriteLine("Hello from Master!");
+            Console.WriteLine("New Feature!");
+
         }
     }
 }
